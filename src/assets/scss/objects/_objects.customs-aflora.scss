@@ -1,0 +1,33 @@
+//These are the autodiagnostico styles
+
+.auto-title{
+    color: $color-brand-05 !important;
+}
+
+.auto-button{
+    background: $color-brand-05 !important;
+    border: none !important;
+    color: #F1645B !important;
+}
+
+.auto-button:hover{
+    background: #72302b !important;
+    color: white !important;
+}
+
+.auto-paragraph{
+    color: white !important;
+}
+
+//These are the styles for ruta de formación
+.form-title{
+    color: $color-brand-06 !important;
+}
+.form-btn{
+    background: $color-brand-06 !important;
+    border: none !important;
+    color: white !important;
+}
+.form-btn:hover{
+    background-color:  #7e1536 !important;
+}
